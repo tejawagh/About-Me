@@ -2,7 +2,7 @@
 
 📍 Jersey City, USA  
 📫 Email: [waghmodetejashree123@gmail.com](mailto:waghmodetejashree123@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/tejashreewaghmode1/)  
+📫 Let's connect! You can reach me through 🔗 [LinkedIn](https://www.linkedin.com/in/tejashreewaghmode1/)  
 
 
 ---
@@ -60,9 +60,9 @@ Solapur University, Maharashtra, India (2016)
 - ✅ [Scrum Associate Certified - 2020](https://www.scrum-institute.org/badges/46309083362109)  
 - ✅ [Microsoft Excel Associate (Office 2019) - 2024](https://www.credly.com/badges/75d17d07-c910-4f47-89d5-54dc86b01ca9/linked_in_profile)
 
+Outside of my core responsibilities, I stay current with the latest industry trends, participate in professional development activities, and enjoy collaborating with fellow engineers on innovative projects. I am open to networking, mentorship, and collaboration opportunities to further contribute to the rapidly evolving tech landscape. 
 
-
----
+Please feel free to connect if you are interested in working together or sharing insights.
 
 ## 📞 Contact - +15513585860
 
